@@ -23,7 +23,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://gofile.io/d/xwNesDqv"
         required: true
         type: string
       bundle_id:
